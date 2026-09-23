@@ -1,4 +1,4 @@
-SISTEM MANAJEMEN OPERASIONAL DAN PELAYANAN WARNET  (REVISI)
+SISTEM MANAJEMEN OPERASIONAL DAN PELAYANAN WARNET
 
 1. ENCAPSULATION : Seluruh atribut penting (nama, username, password,
 saldo, status, harga_per_jam, durasi_jam) bersifat private dan
