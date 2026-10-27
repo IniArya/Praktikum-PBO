@@ -1,16 +1,12 @@
 # Sistem Manajemen Operasional dan Pelayanan Warnet
 
-Nama: [ISI NAMA LENGKAP]
-NIM: [ISI NIM]
-Kelas: [ISI KELAS]
-
 ## Deskripsi Program
 
 Program ini mensimulasikan operasional dan pelayanan warnet. Program mengelola pengguna (Admin, Operator, Pelanggan), komputer, paket penggunaan, dan transaksi. Posttest ini melanjutkan konsep inheritance dan encapsulation dari posttest sebelumnya, lalu menambahkan Abstraksi dan Polimorfisme.
 
 ## Class Diagram
 
-![Class Diagram](class_diagram.png)
+![Class Diagram](https://i.imgur.com/ajjlc1r.png)
 
 ### Penjelasan Relasi
 
